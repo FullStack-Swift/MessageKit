@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineX",
+        "repositoryURL": "https://github.com/FullStack-Swift/CombineX.git",
+        "state": {
+          "branch": "main",
+          "revision": "eca88df4cf9697b5b4b5bedc8b84e6272724048a",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUIX",
+        "repositoryURL": "https://github.com/FullStack-Swift/SwiftUIX",
+        "state": {
+          "branch": "main",
+          "revision": "61ae745f908484bec616648741b33479532f3ae9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
